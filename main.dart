@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-//import 'dart:math' show Random;
 import 'package:flip_card/flip_card.dart';
 import 'package:card_matching_game/kard.dart';
 
